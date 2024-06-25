@@ -25,7 +25,7 @@ Please star this project ⭐
 3. Go to [DanHosting](https://discord.gg/dbh).
 4. After entering the Discord server, we go to the command channel and write: dbh!server create NodeJs
 5. We go to https://github.com/ZambakExe/AternosX and download it.
-6. sonra https://panel.danbot.host/ adresine gidelim ve oluşturduğumuz server a girelim ardından startup sekmesine girelim main fileyı bot.js olarak değiştirelim
+6. Then let's go to https://panel.danbot.host/ and enter the server we created, then go to the startup tab and change the main file to bot.js.
 7. Then let's go to the file tab and add the downloaded file here.
 8. Let's start our bot from the console
 9. **Teleport the bot into the bedrock room, change the bot's gamemode to `Creative` to not die!**
