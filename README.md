@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/1255151320428707933/1255248088189243523/Adsz_tasarm_1.gif?ex=667c7061&is=667b1ee1&hm=00cc82377fe5d0e9512f521730b96c12f3b921a756803a5bbeb40e7a1de1343b&)
+![Header](https://l24.im/kTOq)
 
 
 # AternosX ⏱️
