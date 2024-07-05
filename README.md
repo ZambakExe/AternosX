@@ -1,4 +1,4 @@
-![Header](https://l24.im/kTOq)
+![Header]([https://l24.im/kTOq](https://cdn.discordapp.com/attachments/1255151320428707933/1255282228347408555/download.gif?ex=6689bf2d&is=66886dad&hm=87d2e11f56d624ebaf4965634e962978b9a6840995989df4cf20588a59ebe2a8&))
 
 
 # AternosX ⏱️
